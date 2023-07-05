@@ -3,7 +3,7 @@ Visualizing and manipulating geospatial data using Python, focused on ice sheets
 <br />
 
 <h6> Timesteps Based on Forcings File from 3000ka to 0ka, 1kyr Intervals </h6>
-<h7> CO2,  d18O from LR04, eccentricity, obliquity, and  precession. <h7>
+<h6> CO2,  d18O from LR04, eccentricity, obliquity, and  precession. <h6>
 <img width="675" alt="forcings_3000ka_0ka_plot" src="https://github.com/kymaximum/climatephys23/assets/88376943/208a04e9-c499-4cbd-ae7f-ed8d9105cc75">
 
 <h6> Surface Temperature Timestep, Polar Contour Plot, Etc Example </h6>

@@ -1,6 +1,12 @@
 # climatephys23
 <br />
 
+<h6> Day 4: Edited Timesteps Based on Forcings File from 3000ka to 0ka, 1kyr Intervals </h6>
+(https://github.com/kymaximum/climatephys23/assets/88376943/a727277b-337b-4644-b002-837cd4bc5155)
+(https://github.com/kymaximum/climatephys23/assets/88376943/b0297896-1ba4-498a-b134-73edd8cc5bd2)
+(https://github.com/kymaximum/climatephys23/assets/88376943/efe456e7-920a-467c-a608-14cd5142c361)
+(https://github.com/kymaximum/climatephys23/assets/88376943/945a1ac1-93e7-4a3c-8f97-a2e4686ee9e2)
+
 <h6> Day 3: Timesteps Based on Forcings File from 3000ka to 0ka, 1kyr Intervals </h6>
 <h6> CO2,  d18O from LR04, eccentricity, obliquity, and  precession. <h6>
 <img width="675" alt="forcings_3000ka_0ka_plot" src="https://github.com/kymaximum/climatephys23/assets/88376943/208a04e9-c499-4cbd-ae7f-ed8d9105cc75">

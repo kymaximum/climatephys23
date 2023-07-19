@@ -2,11 +2,7 @@
 <br />
 
 <h6> Week 2: Time Series, Scatterplot & Spatial Patterns Based on Forcings File from 3000ka to 0ka, 1kyr Intervals Compared to Ice  Volume </h6>!
-<img width="844" alt="Time Series Ice Volume & Forcings" src="https://github.com/kymaximum/climatephys23/assets/88376943/b04c6732-f504-4f8e-91d2-0b5ebf88d287">
-<img width="844" alt="Time Series Ice Volume & Forcings" src="https://github.com/kymaximum/climatephys23/assets/88376943/ceaf2571-ae0c-4e74-9e70-74cc54fd2eec">
-<img width="500" alt="Spatial Patterns_1" src="https://github.com/kymaximum/climatephys23/assets/88376943/9ebac152-1750-4184-90af-864a8fe125c3">
-![northvsco2](https://github.com/kymaximum/climatephys23/assets/88376943/e503a5c5-917a-4ddd-8f93-acb851a7c300)
-![southvsco2](https://github.com/kymaximum/climatephys23/assets/88376943/26247a25-25dd-4d21-8d30-030d0b1e3777)
+
 
 <h6> Week 1: Edited Time Series Based on Forcings File from 3000ka to 0ka, 1kyr Intervals </h6>
 (https://github.com/kymaximum/climatephys23/assets/88376943/a727277b-337b-4644-b002-837cd4bc5155)

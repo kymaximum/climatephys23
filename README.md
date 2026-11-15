@@ -32,12 +32,12 @@ Ice sheets respond to climate forcing on a range of timescales, and their evolut
 - [`spatialpatterns_nh_sh.ipynb`](spatialpatterns_nh_sh.ipynb): exploratory notebook on Northern and Southern Hemisphere spatial patterns.
 
 ## How the work developed
-| Stage | Focus | Research skill |
-| --- | --- | --- |
-| Initial exploration | Climate forcings, temperature maps, and ice-volume plots | Reading model output and visualizing geophysical variables |
-| Time-series comparisons | Ice volume versus CO₂, δ¹⁸O, and orbital forcing | Interpolation, alignment, scatterplots, and correlations |
-| Spatial analysis | Ice-thickness standard deviations and grid-cell correlations | Working across time and space in gridded model output |
-| Subsequent research (not included here) | Fourier analysis, wavelet analysis, and climate-model variability | Examining timescales, evolving periodicities, and variability beyond simple correlations |
+| Stage | Focus |
+| --- | --- |
+| Initial exploration | Climate forcings, temperature maps, and ice-volume plots|
+| Time-series comparisons | Ice volume versus CO₂, δ¹⁸O, and orbital forcing|
+| Spatial analysis | Ice-thickness standard deviations and grid-cell correlations|
+| Subsequent research (not included here) | Fourier analysis, wavelet analysis, and climate-model variability|
 
 The later work builds on questions raised here: how much ice-sheet variability is associated with different timescales, whether those relationships remain stable through time, and how spatial patterns interact with climate forcing. This repository documents **the starting point**, not the full extent of that subsequent work.
 
